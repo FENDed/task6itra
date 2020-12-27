@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>817872664451-16l2o6mali7bqkp7kb663fj89e5qgonl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.817872664451-16l2o6mali7bqkp7kb663fj89e5qgonl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsovsRRnmFGDftHU-vAAZUM8stMDLnvtg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817872664451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kjatata.MyProject-6</string>
+	<key>PROJECT_ID</key>
+	<string>task6itra</string>
+	<key>STORAGE_BUCKET</key>
+	<string>task6itra.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817872664451:ios:6c75c7e6060b9bfff068b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://task6itra-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
